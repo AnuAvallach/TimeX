@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y177pL85K0Yds/EIuKluaMI1xo6CXOg9HEPFJjfYLzF5tml4rwTW78jW5s7IsnRFjzXZHWjawNNVU3BP6RqkeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\U1\\Desktop\\TimeX\\TimeX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\U1\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.16\\microsoft.netcore.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\U1\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.16.nupkg.sha512",
+    "C:\\Users\\U1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.16\\microsoft.aspnetcore.app.runtime.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
